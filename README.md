@@ -11,8 +11,13 @@ About :
 💬 I’m enthusiastic about collaborating with diverse teams to tackle data-centric projects, combining my analytical expertise with interdisciplinary perspectives to deliver impactful outcomes.
 
 Skills:
+ 
  Programming Languages: Python, SQL
+ 
  Data Analysis: Pandas, NumPy, Data Visualization (Matplotlib, Seaborn)
+ 
  Database Management: MySQL
+ 
  Statistical Analysis
+ 
  Machine Learning
