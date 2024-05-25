@@ -1,4 +1,5 @@
 Hi there, Vaishnavi Gadhe
+
 About :
 🔭 I have completed my Bachelor’s Degree in 2022.
  
