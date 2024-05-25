@@ -1,6 +1,7 @@
 Hi there, Vaishnavi Gadhe
 
 About :
+
 🔭 I have completed my Bachelor’s Degree in 2022.
  
 🔭 I’m passionate about leveraging data to drive actionable insights, solve complex problems, and make informed decisions.
